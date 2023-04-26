@@ -18,7 +18,7 @@ To start the React app, run the following command:
 
 This will start the development server and open the app in your default web browser.
 
-##Games
+## Games
 
 Number Puzzle
 
