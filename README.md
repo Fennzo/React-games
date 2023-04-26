@@ -14,7 +14,7 @@ To install this project, you should follow these steps:
 
 To start the React app, run the following command:
 
-```bash
+```bash```
 npm start
 This will start the development server and open the app in your default web browser.
 
