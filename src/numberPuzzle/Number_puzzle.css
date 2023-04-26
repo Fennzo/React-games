@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+    width: 400px;
+    height: 400px;
+    border: 2px solid black; /* add a border around the grid */
+    margin: auto; /* center the grid horizontally */
+}
+
+.grid-container > div {
+    border: 1px solid black; /* add a border around each tile */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
