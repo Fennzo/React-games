@@ -14,13 +14,16 @@ To install this project, you should follow these steps:
 
 To start the React app, run the following command:
 
-```bash```
-npm start
+(`npm start`)
+
 This will start the development server and open the app in your default web browser.
 
-Games
-Number Puzzle
+##Games
+
+#Number Puzzle
+
 The Number Puzzle game is a classic sliding puzzle game. To start playing, click on the "Number Puzzle" link in the navigation bar.
 
-Towers of Hanoi
+#Towers of Hanoi
+
 The Towers of Hanoi game is a classic puzzle game where you have to move a tower of disks from one peg to another. To start playing, click on the "Towers of Hanoi" link in the navigation bar.
